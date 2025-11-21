@@ -1,0 +1,11 @@
+# .gitignore
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnpm-debug.log
+.env
+.dist
+build/
+coverage/
+*.log
